@@ -9,3 +9,4 @@ git commit -m "aqui comentar algo coerente que faca sentido"
 git push origin main 
 
 finalizando esse códigos sua pasta local ira pra seu repositório no githube
+precisa salva o arquivo para que consiga ser mostrado aqui caso nao seja salvo nao sera mostrado suas anotações aquii.
