@@ -1,0 +1,11 @@
+como incluir pasta do seu servidor local pra o GitHub
+
+códigos
+
+git add . ou git add -a
+
+git commit -m "aqui comentar algo coerente que faca sentido"
+ 
+git push origin main 
+
+finalizando esse códigos sua pasta local ira pra seu repositório no githube
